@@ -45,6 +45,11 @@ gem 'faker', '~> 1.7', '>= 1.7.3'
 gem 'bootstrap-will_paginate', '~> 0.0.11'
 gem 'will_paginate', '~> 3.1.0'
 
+# paperclip
+gem 'paperclip', '~> 5.1'
+
+gem 'jasny-bootstrap-rails', '~> 3.1', '>= 3.1.3'
+
 
 
 group :development, :test do
