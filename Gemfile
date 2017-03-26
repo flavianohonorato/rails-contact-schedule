@@ -41,6 +41,10 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 # install faker
 gem 'faker', '~> 1.7', '>= 1.7.3'
 
+# paginate
+gem 'bootstrap-will_paginate', '~> 0.0.11'
+gem 'will_paginate', '~> 3.1.0'
+
 
 
 group :development, :test do
